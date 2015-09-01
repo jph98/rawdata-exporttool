@@ -1,0 +1,17 @@
+{
+    "name": "brightpearl/rawdataexport",
+    "description": "Brightpearl Raw Data Export",
+    "require": {
+        "slim/slim": "2.*",
+        "slim/extras": "*",
+        "twig/twig": "*",
+        "twig/twig": "*",
+        "nategood/httpful": "*"
+    },
+    "authors": [
+        {
+            "name": "Jon",
+            "email": "jon.holloway@brightpearl.com"
+        }
+    ]
+}
